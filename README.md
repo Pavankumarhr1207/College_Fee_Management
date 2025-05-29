@@ -43,10 +43,4 @@ Before running this application, ensure the following are installed:
 
 💻 IDE Options:🧠 Eclipse (J2EE), 🚀 IntelliJ IDEA, or 🛠️ Any Java-compatible IDE
   
-🌎 Web Browser:
-
-  🌐 Chrome
-  
-  🦊 Firefox
-  
-  🧭 Edge
+🌎 Web Browser:🌐 Chrome, 🦊 Firefox, or 🧭 Edge
