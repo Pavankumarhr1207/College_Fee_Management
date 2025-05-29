@@ -47,31 +47,3 @@ Before running this application, ensure the following are installed:
 
 # 🛠️ Project Structure
 
-CollegeFeeWebApp/
-│
-├── WebContent/
-│ ├── index.jsp
-│ ├── feepaymentadd.jsp
-│ ├── feepaymentupdate.jsp
-│ ├── feepaymentdelete.jsp
-│ ├── feepaymentdisplay.jsp
-│ ├── reports.jsp
-│ ├── report_form.jsp
-│ └── report_result.jsp
-│
-├── src/
-│ └── com/
-│ ├── dao/
-│ │ └── FeePaymentDAO.java
-│ ├── model/
-│ │ └── FeePayment.java
-│ └── servlet/
-│ ├── AddFeePaymentServlet.java
-│ ├── UpdateFeePaymentServlet.java
-│ ├── DeleteFeePaymentServlet.java
-│ ├── DisplayFeePaymentsServlet.java
-│ ├── ReportServlet.java
-│ └── ReportCriteriaServlet.java
-│
-└── WEB-INF/
-└── web.xml
