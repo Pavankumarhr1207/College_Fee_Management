@@ -45,6 +45,7 @@ Before running this application, ensure the following are installed:
   
 🌎 Web Browser:🌐 Chrome, 🦊 Firefox, or 🧭 Edge
 
-# 🛠️ Project Structure
+## 🛠️ Project Structure
 
-(https://github.com/Pavankumarhr1207/College_Fee_Management/blob/main/Screenshot/Screenshot-Project%20structure.png)
+![Project Structure](https://raw.githubusercontent.com/Pavankumarhr1207/College_Fee_Management/main/Screenshot/Screenshot-Project%20structure.png)
+
