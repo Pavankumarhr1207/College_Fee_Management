@@ -87,20 +87,20 @@ http://localhost:8080/CollegeFeeWebApp/index.jsp
 ### 🏠 Home Page
 <img src="https://github.com/Pavankumarhr1207/College_Fee_Management/blob/main/Screenshot/Screenshot-homepage.png" alt="Home Page" width="700"/>
 
-### ➕ Add Marks Page
-<img src="screenshots/add.png" alt="Add Marks Page" width="700"/>
+### ➕ Add Fee Payment Page
+<img src="https://github.com/Pavankumarhr1207/College_Fee_Management/blob/main/Screenshot/Screenshot-addpage.png" alt="Add Marks Page" width="700"/>
 
 ### 🔍 Search Student
-<img src="screenshots/search.png" alt="Search Student" width="700"/>
+<img src="" alt="Search Student" width="700"/>
 
-### ❌ Delete Details
-<img src="screenshots/delete.png" alt="Search Student" width="700"/>
+### ❌ Delete Fee Payment Page
+<img src="https://github.com/Pavankumarhr1207/College_Fee_Management/blob/main/Screenshot/Screenshot-deletepage.png" alt="Search Student" width="700"/>
 
-### 🆕 Update Details
-<img src="screenshots/update.png" alt="Search Student" width="700"/>
+### 🆕 Update Fee Payment Page
+<img src="https://github.com/Pavankumarhr1207/College_Fee_Management/blob/main/Screenshot/Screenshot-upadatepage.png" alt="Search Student" width="700"/>
 
-### 📋 Display Marks
-<img src="screenshots/display.png" alt="Display Marks" width="700"/>
+### 📋 Display Fee Payments
+<img src="https://github.com/Pavankumarhr1207/College_Fee_Management/blob/main/Screenshot/Screenshot-displaypage.png" alt="Display Marks" width="700"/>
 
 
 
