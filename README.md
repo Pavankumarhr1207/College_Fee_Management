@@ -56,13 +56,14 @@ To set up the MySQL database for this project, execute the following commands:
 
 ### 1. Create Database
 
-```sql
+\`\`\`sql
 CREATE DATABASE IF NOT EXISTS fee_management;
 USE fee_management;
----sql
+\`\`\`
 
 ### 2. Create Table
-```sql
+
+\`\`\`sql
 CREATE TABLE FeePayments (
   PaymentID INT PRIMARY KEY AUTO_INCREMENT,
   StudentID INT,
@@ -71,7 +72,7 @@ CREATE TABLE FeePayments (
   Amount DECIMAL(10,2),
   Status VARCHAR(20) -- e.g., Paid, Overdue
 );
-
+\`\`\`
 
 
 
