@@ -11,3 +11,11 @@ This project manages student fee payments and provides comprehensive tools for t
 🗑️ Delete Payment Record
 
 📄 View Payment History
+
+# 📊 Reporting Capabilities:
+
+📌 Unpaid Fees List
+
+⏰ Overdue Payments Report
+
+📆 Total Fee Collection by Period
