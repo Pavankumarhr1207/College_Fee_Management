@@ -47,3 +47,4 @@ Before running this application, ensure the following are installed:
 
 # 🛠️ Project Structure
 
+(https://github.com/Pavankumarhr1207/College_Fee_Management/blob/main/Screenshot/Screenshot-Project%20structure.png)
