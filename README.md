@@ -90,9 +90,6 @@ http://localhost:8080/CollegeFeeWebApp/index.jsp
 ### ➕ Add Fee Payment Page
 <img src="https://github.com/Pavankumarhr1207/College_Fee_Management/blob/main/Screenshot/Screenshot-addpage.png" alt="Add Marks Page" width="700"/>
 
-### 🔍 Search Student
-<img src="" alt="Search Student" width="700"/>
-
 ### ❌ Delete Fee Payment Page
 <img src="https://github.com/Pavankumarhr1207/College_Fee_Management/blob/main/Screenshot/Screenshot-deletepage.png" alt="Search Student" width="700"/>
 
@@ -101,6 +98,10 @@ http://localhost:8080/CollegeFeeWebApp/index.jsp
 
 ### 📋 Display Fee Payments
 <img src="https://github.com/Pavankumarhr1207/College_Fee_Management/blob/main/Screenshot/Screenshot-displaypage.png" alt="Display Marks" width="700"/>
+
+### 🚀 Generate Page
+<img src="https://github.com/Pavankumarhr1207/College_Fee_Management/blob/main/Screenshot/Screenshot-generatepage.png" alt="Search Student" width="700"/>
+
 
 
 
