@@ -49,30 +49,7 @@ Before running this application, ensure the following are installed:
 
 ![Project Structure](https://raw.githubusercontent.com/Pavankumarhr1207/College_Fee_Management/main/Screenshot/Screenshot-Project%20structure.png)
 
-## 🗃️ Database Setup
 
-To set up the MySQL database for this project, execute the following commands:
-
-
-### 1. Create Database
-
-\`\`\`sql
-CREATE DATABASE IF NOT EXISTS fee_management;
-USE fee_management;
-\`\`\`
-
-### 2. Create Table
-
-\`\`\`sql
-CREATE TABLE FeePayments (
-  PaymentID INT PRIMARY KEY AUTO_INCREMENT,
-  StudentID INT,
-  StudentName VARCHAR(100),
-  PaymentDate DATE,
-  Amount DECIMAL(10,2),
-  Status VARCHAR(20) -- e.g., Paid, Overdue
-);
-\`\`\`
 
 
 
