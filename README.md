@@ -56,7 +56,7 @@ To set up the MySQL database for this project, execute the following commands:
 ```sql
 CREATE DATABASE IF NOT EXISTS fee_management;
 USE fee_management;
----
+
 
 
 
