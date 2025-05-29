@@ -82,7 +82,25 @@ Open your web browser and navigate to:
 http://localhost:8080/CollegeFeeWebApp/index.jsp
 ```
 
+## 🖼️ Screenshots
 
+### 🏠 Home Page
+<img src="https://github.com/Pavankumarhr1207/College_Fee_Management/blob/main/Screenshot/Screenshot-homepage.png" alt="Home Page" width="700"/>
+
+### ➕ Add Marks Page
+<img src="screenshots/add.png" alt="Add Marks Page" width="700"/>
+
+### 🔍 Search Student
+<img src="screenshots/search.png" alt="Search Student" width="700"/>
+
+### ❌ Delete Details
+<img src="screenshots/delete.png" alt="Search Student" width="700"/>
+
+### 🆕 Update Details
+<img src="screenshots/update.png" alt="Search Student" width="700"/>
+
+### 📋 Display Marks
+<img src="screenshots/display.png" alt="Display Marks" width="700"/>
 
 
 
