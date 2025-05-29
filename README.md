@@ -49,3 +49,14 @@ Before running this application, ensure the following are installed:
 
 ![Project Structure](https://raw.githubusercontent.com/Pavankumarhr1207/College_Fee_Management/main/Screenshot/Screenshot-Project%20structure.png)
 
+## 🗃️ Database Setup
+
+To set up the MySQL database for this project, execute the following commands:
+
+```sql
+CREATE DATABASE IF NOT EXISTS fee_management;
+USE fee_management;
+---
+
+
+
