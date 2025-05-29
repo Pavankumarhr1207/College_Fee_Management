@@ -42,11 +42,8 @@ Before running this application, ensure the following are installed:
 🔌 MySQL JDBC Driver – mysql-connector-java
 
 💻 IDE Options:
-
-  🧠 Eclipse (J2EE)
-  
-  🚀 IntelliJ IDEA
-  
+  🧠 Eclipse (J2EE),
+  🚀 IntelliJ IDEA, or
   🛠️ Any Java-compatible IDE
   
 🌎 Web Browser:
