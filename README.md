@@ -102,6 +102,9 @@ http://localhost:8080/CollegeFeeWebApp/index.jsp
 ### 🚀 Generate Page
 <img src="https://github.com/Pavankumarhr1207/College_Fee_Management/blob/main/Screenshot/Screenshot-generatepage.png" alt="Search Student" width="700"/>
 
+### 📊 Report Page
+<img src="https://github.com/Pavankumarhr1207/College_Fee_Management/blob/main/Screenshot/Screenshot-reportpage.png" alt="Search Student" width="700"/>
+
 
 
 
