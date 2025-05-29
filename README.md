@@ -23,6 +23,9 @@ This project manages student fee payments and provides comprehensive tools for t
 # 🧾 Benefits:
 
 ✔️ Efficient fee tracking
+
 ✔️ Improved administrative control
+
 ✔️ Easy access to student payment history
+
 ✔️ Periodic financial reporting
